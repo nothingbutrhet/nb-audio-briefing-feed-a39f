@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Personal Audio Briefing</title>
-    <description>Personal feed generated from Zotero sources.</description>
-    <language>en-us</language>
-    <link>https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f</link>
-  </channel>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+  <title>Personal Audio Briefing</title>
+  <description>Personal feed generated from Zotero sources.</description>
+  <language>en-us</language>
+  <link>https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f</link>
+  <itunes:author>Personal Audio Briefing</itunes:author>
+  <itunes:summary>Personal feed generated from Zotero sources.</itunes:summary>
+  <itunes:explicit>false</itunes:explicit>
+<item>
+  <title>Everything Is Television: Flow, Attention, and the New Media Attractor</title>
+  <guid isPermaLink="false">briefing-episode-everything-is-television</guid>
+  <pubDate>Mon, 02 Mar 2026 05:26:26 GMT</pubDate>
+  <enclosure url="https://github.com/nothingbutrhet/nb-audio-briefing-feed-a39f/releases/download/briefing-episode-everything-is-television/everything-is-television.mp3" length="7463564" type="audio/mpeg"/>
+  <description><![CDATA[<p>A fidelity-style walkthrough of Derek Thompson’s 2025 essay arguing that major media formats are converging toward continuous short-form video “flow,” with implications for social life, attention, and political culture. The script distinguishes Thompson’s claims, his cited evidence, and clearly labeled derived inferences.</p><p><strong>Sources (APA)</strong></p><ul><li>Thompson, D. (2025). Everything Is Television. https://www.derekthompson.org/p/why-everything-became-television</li></ul><p><strong>Featured Notes</strong></p><ul><li>A spooky convergence is happening in media.</li><li>Whether the starting point is a student directory (Facebook), radio, or an AI image generator, the end point seems to be the same: a river of short-form video.</li><li>In his 1974 book Television: Technology and Cultural Form, Raymond Williams: wrote that “in all communications systems before [television], the essential items were discrete.”</li><li>300 hours a year to learn a new skill, or participate in their community, or have more children.</li></ul>]]></description>
+</item>
+</channel>
 </rss>

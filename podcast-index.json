@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "episode_id": "everything-is-television",
+    "title": "Everything Is Television: Flow, Attention, and the New Media Attractor",
+    "pub_date_rfc2822": "Mon, 02 Mar 2026 05:26:26 GMT",
+    "enclosure_url": "https://github.com/nothingbutrhet/nb-audio-briefing-feed-a39f/releases/download/briefing-episode-everything-is-television/everything-is-television.mp3",
+    "enclosure_bytes": 7463564,
+    "summary": "A fidelity-style walkthrough of Derek Thompson’s 2025 essay arguing that major media formats are converging toward continuous short-form video “flow,” with implications for social life, attention, and political culture. The script distinguishes Thompson’s claims, his cited evidence, and clearly labeled derived inferences.",
+    "citations": [
+      "Thompson, D. (2025). Everything Is Television. https://www.derekthompson.org/p/why-everything-became-television"
+    ],
+    "featured_notes": [
+      "A spooky convergence is happening in media.",
+      "Whether the starting point is a student directory (Facebook), radio, or an AI image generator, the end point seems to be the same: a river of short-form video.",
+      "In his 1974 book Television: Technology and Cultural Form, Raymond Williams: wrote that “in all communications systems before [television], the essential items were discrete.”",
+      "300 hours a year to learn a new skill, or participate in their community, or have more children."
+    ],
+    "guid": "briefing-episode-everything-is-television"
+  }
+]
