@@ -1,0 +1,70 @@
+name: Mirror release assets to GitHub Pages
+
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag (briefing-episode-...)
+        required: true
+        type: string
+      asset_name:
+        description: Asset filename
+        required: true
+        type: string
+      asset_url:
+        description: browser_download_url
+        required: true
+        type: string
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Prepare vars
+        run: |
+          repo_name=${GITHUB_REPOSITORY#*/}
+          owner=${GITHUB_REPOSITORY%%/*}
+          base_url="https://${owner}.github.io/${repo_name}"
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            tag="${{ inputs.tag }}"
+            asset_name="${{ inputs.asset_name }}"
+            asset_url="${{ inputs.asset_url }}"
+          else
+            tag="${{ github.event.release.tag_name }}"
+            asset_name="${{ github.event.release.assets[0].name }}"
+            asset_url="${{ github.event.release.assets[0].browser_download_url }}"
+          fi
+
+          echo "owner=$owner" >> $GITHUB_ENV
+          echo "repo_name=$repo_name" >> $GITHUB_ENV
+          echo "base_url=$base_url" >> $GITHUB_ENV
+          echo "tag=$tag" >> $GITHUB_ENV
+          echo "asset_name=$asset_name" >> $GITHUB_ENV
+          echo "asset_url=$asset_url" >> $GITHUB_ENV
+
+      - name: Mirror audio
+        run: |
+          mkdir -p episodes
+          curl -L "$asset_url" -o "episodes/$asset_name"
+
+      - name: Update podcast.rss
+        run: |
+          old="https://github.com/${GITHUB_REPOSITORY}/releases/download/$tag/$asset_name"
+          new="${base_url}/episodes/$asset_name"
+          sed -i "s#${old}#${new}#" podcast.rss
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add podcast.rss episodes/$asset_name
+          git commit -m "Mirror $asset_name to GitHub Pages and update RSS enclosure"
+          git push
