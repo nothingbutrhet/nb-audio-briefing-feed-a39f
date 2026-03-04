@@ -3,7 +3,7 @@
     "episode_id": "towards-a-perspectival-moral-history-of-the-novel-using-llms",
     "title": "Interpreting Story Morals at Scale: A Fidelity Briefing on Piper (2025)",
     "pub_date_rfc2822": "Wed, 04 Mar 2026 05:59:26 GMT",
-    "enclosure_url": "https://github.com/nothingbutrhet/nb-audio-briefing-feed-a39f/releases/download/briefing-episode-towards-a-perspectival-moral-history-of-the-novel-using-llms/towards-a-perspectival-moral-history-of-the-novel-using-llms.mp3",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/towards-a-perspectival-moral-history-of-the-novel-using-llms.mp3",
     "enclosure_bytes": 1014764,
     "summary": "This episode examines Andrew Piper's 2025 article on building a perspectival moral history of the novel with LLMs. It focuses on what the paper explicitly claims: dataset design, prompting workflow, prompt-variance controls, and the argument that moral interpretation is always situated across language, archive, model, and researcher.",
     "citations": [
@@ -21,7 +21,7 @@
     "episode_id": "everything-is-television",
     "title": "Everything Is Television: Flow, Attention, and the New Media Attractor",
     "pub_date_rfc2822": "Mon, 02 Mar 2026 05:26:26 GMT",
-    "enclosure_url": "https://github.com/nothingbutrhet/nb-audio-briefing-feed-a39f/releases/download/briefing-episode-everything-is-television/everything-is-television.mp3",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/everything-is-television.mp3",
     "enclosure_bytes": 7463564,
     "summary": "A fidelity-style walkthrough of Derek Thompson’s 2025 essay arguing that major media formats are converging toward continuous short-form video “flow,” with implications for social life, attention, and political culture. The script distinguishes Thompson’s claims, his cited evidence, and clearly labeled derived inferences.",
     "citations": [
