@@ -9,6 +9,13 @@
   <itunes:summary>Personal feed generated from Zotero sources.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
 <item>
+  <title>A Perspectival Moral History of the Novel: What LLMs Can and Cannot Tell Us</title>
+  <guid isPermaLink="false">briefing-episode-interpreting-story-morals-at-scale-a-fidelity-briefing-on-piper-2025</guid>
+  <pubDate>Wed, 04 Mar 2026 14:36:28 GMT</pubDate>
+  <enclosure url="https://github.com/nothingbutrhet/nb-audio-briefing-feed-a39f/releases/download/briefing-episode-interpreting-story-morals-at-scale-a-fidelity-briefing-on-piper-2025/interpreting-story-morals-at-scale-a-fidelity-briefing-on-piper-2025.mp3" length="7663724" type="audio/mpeg"/>
+  <description><![CDATA[<p>This episode examines Andrew Piper’s 2025 study on using large language models to extract story morals from thousands of Wikipedia plot summaries of modern novels. The script stays close to Piper’s claims: the project is interpretive rather than taxonomic, uses prompt variation to test model sensitivity, and treats moral extraction as a perspectival workflow shaped by language, archive, model, and researcher. It also marks where broader implications are inferred rather than directly claimed.</p><p><strong>Sources (APA)</strong></p><ul><li>Piper, A. (2025). Towards a Perspectival Moral History of the Novel Using LLMs. Journal of Computational Literary Studies. https://doi.org/10.48694/jcls.4168</li></ul><p><strong>Featured Notes</strong></p><ul><li>The paper frames a &quot;many-to-many relationship&quot; among wikiplots across language editions, highlighting perspectival differences in what gets summarized and how.</li><li>The project links story morals to narratological schema traditions (for example, Campbell, Frye, Genette, Propp, Thompson) while shifting focus from &quot;what happened&quot; to &quot;why this was told.&quot;</li><li>Methods note: the prompt asks for a single-sentence moral, then three keywords, with a fallback of NONE if information is insufficient.</li><li>Data note: the study uses 9,756 human-written English Wikipedia story summaries of books published since the start of the twentieth century.</li></ul>]]></description>
+</item>
+<item>
   <title>Everything Is Television: Flow, Attention, and the New Media Attractor</title>
   <guid isPermaLink="false">briefing-episode-everything-is-television</guid>
   <pubDate>Mon, 02 Mar 2026 05:26:26 GMT</pubDate>
