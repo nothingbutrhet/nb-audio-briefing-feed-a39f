@@ -1,5 +1,23 @@
 [
   {
+    "episode_id": "towards-a-perspectival-moral-history-of-the-novel-using-llms",
+    "title": "Interpreting Story Morals at Scale: A Fidelity Briefing on Piper (2025)",
+    "pub_date_rfc2822": "Wed, 04 Mar 2026 05:59:26 GMT",
+    "enclosure_url": "https://github.com/nothingbutrhet/nb-audio-briefing-feed-a39f/releases/download/briefing-episode-towards-a-perspectival-moral-history-of-the-novel-using-llms/towards-a-perspectival-moral-history-of-the-novel-using-llms.mp3",
+    "enclosure_bytes": 1014764,
+    "summary": "This episode examines Andrew Piper's 2025 article on building a perspectival moral history of the novel with LLMs. It focuses on what the paper explicitly claims: dataset design, prompting workflow, prompt-variance controls, and the argument that moral interpretation is always situated across language, archive, model, and researcher.",
+    "citations": [
+      "Piper, A. (2025). Towards a Perspectival Moral History of the Novel Using LLMs. Journal of Computational Literary Studies. https://doi.org/10.48694/jcls.4168"
+    ],
+    "featured_notes": [
+      "For the purposes of this project, I use a collection of 9,756 human-written story summaries drawn from English-language Wikipedia for books published since the beginning of the twentieth century.",
+      "The organization of stories into broad, overarching categories is deeply rooted in the field of narratology.",
+      "Information Ordering: Story summary appears in Top or Bottom. Present or Absent.",
+      "Role = no; Order = bottom; Phrasing = direct."
+    ],
+    "guid": "briefing-episode-towards-a-perspectival-moral-history-of-the-novel-using-llms"
+  },
+  {
     "episode_id": "everything-is-television",
     "title": "Everything Is Television: Flow, Attention, and the New Media Attractor",
     "pub_date_rfc2822": "Mon, 02 Mar 2026 05:26:26 GMT",
