@@ -3,7 +3,7 @@
     "episode_id": "interpreting-story-morals-at-scale-a-fidelity-briefing-on-piper-2025",
     "title": "A Perspectival Moral History of the Novel: What LLMs Can and Cannot Tell Us",
     "pub_date_rfc2822": "Wed, 04 Mar 2026 14:36:28 GMT",
-    "enclosure_url": "https://github.com/nothingbutrhet/nb-audio-briefing-feed-a39f/releases/download/briefing-episode-interpreting-story-morals-at-scale-a-fidelity-briefing-on-piper-2025/interpreting-story-morals-at-scale-a-fidelity-briefing-on-piper-2025.mp3",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/interpreting-story-morals-at-scale-a-fidelity-briefing-on-piper-2025.mp3",
     "enclosure_bytes": 7663724,
     "summary": "This episode examines Andrew Piper’s 2025 study on using large language models to extract story morals from thousands of Wikipedia plot summaries of modern novels. The script stays close to Piper’s claims: the project is interpretive rather than taxonomic, uses prompt variation to test model sensitivity, and treats moral extraction as a perspectival workflow shaped by language, archive, model, and researcher. It also marks where broader implications are inferred rather than directly claimed.",
     "citations": [
