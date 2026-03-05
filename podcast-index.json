@@ -21,7 +21,7 @@
     "episode_id": "latent-spacecraft-brains-gans-finnegans",
     "title": "Inside Latent Space: Brains, GANs, and Finnegans Wake",
     "pub_date_rfc2822": "Thu, 05 Mar 2026 16:14:06 GMT",
-    "enclosure_url": "https://github.com/nothingbutrhet/nb-audio-briefing-feed-a39f/releases/download/briefing-episode-latent-spacecraft-brains-gans-finnegans/latent-spacecraft-brains-gans-finnegans.mp3",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/latent-spacecraft-brains-gans-finnegans.mp3",
     "enclosure_bytes": 7121324,
     "summary": "This episode closely follows Begus and Begus (2026) to explain latent space as both a computational structure and an interpretable interior. We walk through their three linked case studies, clarify why they chose their methods and corpora, and assess why their conclusion about AI interiors matters.",
     "citations": [
