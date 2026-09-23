@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
   <title>Personal Audio Briefing</title>
   <description>Personal feed generated from Zotero sources.</description>
@@ -8,5 +8,12 @@
   <itunes:author>Personal Audio Briefing</itunes:author>
   <itunes:summary>Personal feed generated from Zotero sources.</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
+<item>
+  <title>Does AI Assistance Enhance or Erode Expertise? — Mara’s oral adaptation</title>
+  <guid isPermaLink="false">briefing-episode-2026-09-23-patent-expertise-mara</guid>
+  <pubDate>Wed, 23 Sep 2026 15:13:52 GMT</pubDate>
+  <enclosure url="https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-09-23-patent-expertise-mara.mp3" length="22196197" type="audio/mpeg" />
+  <description>&lt;p&gt;Mara presents a source-grounded oral adaptation of the September 2026 NBER working paper on a three-month randomized experiment with patent lawyers. Covers the drafting and unaided redlining tasks, findings by experience, possible mechanisms, and limits of the evidence. 23:07; nine chapters. Synthetic narration generated locally with Kokoro Heart. This is an adaptation, not a verbatim reading. The source is a working paper, not peer reviewed.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Sources (APA)&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Autor, D., Rodchenko, T., Martin, J., Iscenko, Z., Strand, S., Pearl, D., &amp;amp; Ferere, M. (2026). Does AI assistance enhance or erode expertise? Evidence from a three-month field experiment in patent drafting (NBER Working Paper No. 35720). National Bureau of Economic Research. https://doi.org/10.3386/w35720&lt;/li&gt;&lt;/ul&gt;</description>
+<itunes:duration>23:07</itunes:duration></item>
 </channel>
 </rss>

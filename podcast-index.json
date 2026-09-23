@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "episode_id": "2026-09-23-patent-expertise-mara",
+    "title": "Does AI Assistance Enhance or Erode Expertise? — Mara’s oral adaptation",
+    "pub_date_rfc2822": "Wed, 23 Sep 2026 15:13:52 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-09-23-patent-expertise-mara.mp3",
+    "enclosure_bytes": 22196197,
+    "summary": "Mara presents a source-grounded oral adaptation of the September 2026 NBER working paper on a three-month randomized experiment with patent lawyers. Covers the drafting and unaided redlining tasks, findings by experience, possible mechanisms, and limits of the evidence. 23:07; nine chapters. Synthetic narration generated locally with Kokoro Heart. This is an adaptation, not a verbatim reading. The source is a working paper, not peer reviewed.",
+    "citations": [
+      "Autor, D., Rodchenko, T., Martin, J., Iscenko, Z., Strand, S., Pearl, D., & Ferere, M. (2026). Does AI assistance enhance or erode expertise? Evidence from a three-month field experiment in patent drafting (NBER Working Paper No. 35720). National Bureau of Economic Research. https://doi.org/10.3386/w35720"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-09-23-patent-expertise-mara"
+  }
+]
