@@ -1,5 +1,21 @@
 [
   {
+    "episode_id": "2026-09-24-firms-and-organization",
+    "title": "Why Organizations Take the Forms They Do — Coase, Jensen and Meckling, and Moe",
+    "pub_date_rfc2822": "Thu, 24 Sep 2026 16:56:09 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-09-24-firms-and-organization.mp3",
+    "enclosure_bytes": 42096150,
+    "summary": "Vale and Mara introduce and discuss Coase (1937), Jensen and Meckling (1976), and Moe (1984). Separate chapters explain firm boundaries, ownership and financing incentives, and public bureaucracy before comparing their threads and tensions. Significant terms are defined for listeners new to the field. 43:51; five chapters. Independently authored whole-source readings and dialogue, with source fidelity review. Synthetic voices generated locally with Qwen and Kokoro. This is an explanatory discussion, not a verbatim reading.",
+    "citations": [
+      "Coase, R. H. (1937). The Nature of the Firm. Economica, 4(16), 386–405. https://doi.org/10.1111/j.1468-0335.1937.tb00002.x",
+      "Jensen, M. C., & Meckling, W. H. (1976). Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure. Journal of Financial Economics, 3(4), 305–360. https://doi.org/10.1016/0304-405X(76)90026-X",
+      "Moe, T. M. (1984). The New Economics of Organization. American Journal of Political Science, 28(4), 739–777. https://doi.org/10.2307/2110997"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-09-24-firms-and-organization",
+    "duration": "43:51"
+  },
+  {
     "episode_id": "2026-09-23-patent-expertise-mara",
     "title": "Does AI Assistance Enhance or Erode Expertise? — Mara’s oral adaptation",
     "pub_date_rfc2822": "Wed, 23 Sep 2026 15:13:52 GMT",
