@@ -1,5 +1,47 @@
 [
   {
+    "episode_id": "2026-09-28-selection",
+    "title": "Selection, Not Salience: The Shape and Limits of Personalization in Social Highlighting",
+    "pub_date_rfc2822": "Mon, 28 Sep 2026 15:21:47 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-09-28-selection.mp3",
+    "enclosure_bytes": 6146933,
+    "summary": "Vale and Mara give a standalone overview of this paper’s question, methods, findings, and limits. Independently authored after full-source reading, with Luna accuracy review. Synthetic voices generated locally. An explanatory discussion, not a verbatim reading.",
+    "citations": [
+      "Nakayashiki, K., & Watanabe, K. (2026). Selection, Not Salience: The Shape and Limits of Personalization in Social Highlighting. https://arxiv.org/pdf/2606.10398"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-09-28-selection",
+    "duration": "6:24"
+  },
+  {
+    "episode_id": "2026-09-28-employment",
+    "title": "The Early Impacts of AI on Employment among Recent College Graduates",
+    "pub_date_rfc2822": "Mon, 28 Sep 2026 15:21:46 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-09-28-employment.mp3",
+    "enclosure_bytes": 6399208,
+    "summary": "Vale and Mara give a standalone overview of this paper’s question, methods, findings, and limits. Independently authored after full-source reading, with Luna accuracy review. Synthetic voices generated locally. An explanatory discussion, not a verbatim reading.",
+    "citations": [
+      "Fairlie, R., & Wu, J. (2026). The Early Impacts of AI on Employment among Recent College Graduates. https://docs.iza.org/dp18945.pdf"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-09-28-employment",
+    "duration": "6:40"
+  },
+  {
+    "episode_id": "2026-09-28-chronologic",
+    "title": "Chronologic: Measuring Language Models’ Ability to Represent the Past",
+    "pub_date_rfc2822": "Mon, 28 Sep 2026 15:21:45 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-09-28-chronologic.mp3",
+    "enclosure_bytes": 6447623,
+    "summary": "Vale and Mara give a standalone overview of this paper’s question, methods, findings, and limits. Independently authored after full-source reading, with Luna accuracy review. Synthetic voices generated locally. An explanatory discussion, not a verbatim reading.",
+    "citations": [
+      "Underwood, T., Qiu, Z., Griebel, S., Nelson, L. K., Roland, E., Shang, W., & Wilkens, M. (2026). Chronologic: Measuring Language Models’ Ability to Represent the Past. https://arxiv.org/pdf/2609.23178"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-09-28-chronologic",
+    "duration": "6:43"
+  },
+  {
     "episode_id": "2026-09-24-firms-and-organization",
     "title": "Why Organizations Take the Forms They Do — Coase, Jensen and Meckling, and Moe",
     "pub_date_rfc2822": "Thu, 24 Sep 2026 16:56:09 GMT",
