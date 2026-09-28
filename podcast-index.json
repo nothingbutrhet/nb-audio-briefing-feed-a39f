@@ -1,5 +1,19 @@
 [
   {
+    "episode_id": "2026-09-28-race-against-time",
+    "title": "AI Companies Are In a Race Against Time — Reading and Discussion",
+    "pub_date_rfc2822": "Mon, 28 Sep 2026 15:48:34 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-09-28-race-against-time.mp3",
+    "enclosure_bytes": 18724457,
+    "summary": "Vale reads Jared Bernstein and Ryan Cummings’s article faithfully, omitting the prefatory apology about length and retaining the methodology and endnote. A separate discussion with Mara follows. Source fidelity reviewed by Luna. Synthetic voices generated locally.",
+    "citations": [
+      "Bernstein, J., & Cummings, R. (2026, September 25). AI Companies Are In a Race Against Time. https://econjared.substack.com/p/ai-companies-are-in-a-race-against"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-09-28-race-against-time",
+    "duration": "19:30"
+  },
+  {
     "episode_id": "2026-09-28-selection",
     "title": "Selection, Not Salience: The Shape and Limits of Personalization in Social Highlighting",
     "pub_date_rfc2822": "Mon, 28 Sep 2026 15:21:47 GMT",
