@@ -1,5 +1,47 @@
 [
   {
+    "episode_id": "2026-09-28-arrow-control",
+    "title": "Control in Large Organizations — Overview and Discussion",
+    "pub_date_rfc2822": "Tue, 29 Sep 2026 04:16:23 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-09-28-arrow-control.mp3",
+    "enclosure_bytes": 23473664,
+    "summary": "Vale and Mara explain Kenneth Arrow’s account of coordination, transfer prices, uncertainty, and selective information, followed by a discussion of how AI subtasks can succeed locally yet fail to fit together. Source fidelity reviewed by Luna. Synthetic voices generated locally.",
+    "citations": [
+      "Arrow, K. J. (1964). Control in Large Organizations. Management Science, 10(3), 397–408. https://www.jstor.org/stable/2627417"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-09-28-arrow-control",
+    "duration": "24:27"
+  },
+  {
+    "episode_id": "2026-09-28-simon-employment",
+    "title": "A Formal Theory of the Employment Relationship — Overview and Discussion",
+    "pub_date_rfc2822": "Tue, 29 Sep 2026 04:16:22 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-09-28-simon-employment.mp3",
+    "enclosure_bytes": 22183084,
+    "summary": "Vale and Mara explain Herbert Simon’s model of employment authority through a sustained print-shop example, then discuss which decisions remain fixed, human-directed, or delegated in AI work. Source fidelity reviewed by Luna. Synthetic voices generated locally.",
+    "citations": [
+      "Simon, H. A. (1951). A Formal Theory of the Employment Relationship. Econometrica, 19(3), 293–305. https://www.jstor.org/stable/1906815"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-09-28-simon-employment",
+    "duration": "23:06"
+  },
+  {
+    "episode_id": "2026-09-28-ladder-of-reference",
+    "title": "Kicking away the ladder of reference — Reading and Discussion",
+    "pub_date_rfc2822": "Tue, 29 Sep 2026 04:16:21 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-09-28-ladder-of-reference.mp3",
+    "enclosure_bytes": 32410504,
+    "summary": "Vale reads Dan Silver’s complete essay, including its embedded Deutsch tweet, followed by a separate discussion with Mara about social judgment, useful formulations, and explanatory force. Source fidelity reviewed by Luna. Synthetic voices generated locally.",
+    "citations": [
+      "Silver, D. (2025, October 20). Kicking away the ladder of reference. https://thesilverlining3.substack.com/p/kicking-away-the-ladder-of-reference"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-09-28-ladder-of-reference",
+    "duration": "33:45"
+  },
+  {
     "episode_id": "2026-09-28-race-against-time",
     "title": "AI Companies Are In a Race Against Time — Reading and Discussion",
     "pub_date_rfc2822": "Mon, 28 Sep 2026 15:48:34 GMT",
