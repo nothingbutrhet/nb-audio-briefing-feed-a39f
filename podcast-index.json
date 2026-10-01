@@ -1,5 +1,47 @@
 [
   {
+    "episode_id": "2026-10-01-intelligence-explosion",
+    "title": "What if automating AI R&D triggers an intelligence explosion? — Overview and Discussion",
+    "pub_date_rfc2822": "Thu, 01 Oct 2026 15:58:15 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-10-01-intelligence-explosion.mp3",
+    "enclosure_bytes": 25270856,
+    "summary": "Vale and Mara explain a conditional argument about AI research feeding back into its own capabilities, then examine informative experiments, bottlenecks, and the evidence needed for preparation. Source fidelity reviewed by Luna. Synthetic voices generated locally.",
+    "citations": [
+      "Chan, A., et al. (2026, September). What if automating AI R&D triggers an intelligence explosion? Frontier AI Working Paper Series, 2/2026. https://casp.ac/reports/intelligence-explosion"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-10-01-intelligence-explosion",
+    "duration": "26:19"
+  },
+  {
+    "episode_id": "2026-10-01-masley-thinking-part-one",
+    "title": "Why I believe current AI models can really think and understand - Part 1 of 2 — Overview and Discussion",
+    "pub_date_rfc2822": "Thu, 01 Oct 2026 15:58:14 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-10-01-masley-thinking-part-one.mp3",
+    "enclosure_bytes": 23487911,
+    "summary": "Vale and Mara explain Andy Masley’s Part 1 argument about consciousness, thinking, and understanding, then examine what an invented packing problem could and could not show about understanding. Part 1 only. Source fidelity reviewed by Luna. Synthetic voices generated locally.",
+    "citations": [
+      "Masley, A. (2026, September 30). Why I believe current AI models can really think and understand — Part 1 of 2. https://substack.com/home/post/p-218094736"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-10-01-masley-thinking-part-one",
+    "duration": "24:28"
+  },
+  {
+    "episode_id": "2026-10-01-agents-out-of-loop",
+    "title": "AI Agents Push Humans Out of the Loop — Overview and Discussion",
+    "pub_date_rfc2822": "Thu, 01 Oct 2026 15:58:13 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-10-01-agents-out-of-loop.mp3",
+    "enclosure_bytes": 23325840,
+    "summary": "Vale and Mara explain Mitchell, Ghosh, and Passi’s argument about oversight, fatigue, and skill erosion, then discuss what meaningful human review would require. Source fidelity reviewed by Luna. Synthetic voices generated locally.",
+    "citations": [
+      "Mitchell, M., Ghosh, A., & Passi, S. (2026). AI Agents Push Humans Out of the Loop. arXiv:2608.23642, version 3. https://arxiv.org/abs/2608.23642"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-10-01-agents-out-of-loop",
+    "duration": "24:18"
+  },
+  {
     "episode_id": "2026-09-28-arrow-control",
     "title": "Control in Large Organizations — Overview and Discussion",
     "pub_date_rfc2822": "Tue, 29 Sep 2026 04:16:23 GMT",
