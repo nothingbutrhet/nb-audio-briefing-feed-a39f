@@ -1,5 +1,19 @@
 [
   {
+    "episode_id": "2026-10-10-mintz-humanities",
+    "title": "The Humanities Are Shrinking. Their Ideas Are Everywhere. — Full Reading and Discussion",
+    "pub_date_rfc2822": "Sat, 10 Oct 2026 15:54:11 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-10-10-mintz-humanities.mp3",
+    "enclosure_bytes": 46246812,
+    "summary": "A faithful reading of Steven Mintz’s October 9 essay from the listener’s saved Zotero snapshot, followed by an original staged discussion between Vale and Chappy about institutional independence, literary encounter, and what teaching contributes. Source text and discussion independently reviewed. Synthetic voices rendered locally. Technical audio QA passed; no independent auditory or ASR audit.",
+    "citations": [
+      "Mintz, S. (2026, October 9). The humanities are shrinking. Their ideas are everywhere. https://stevenmintz.substack.com/p/the-humanities-are-shrinking-their"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-10-10-mintz-humanities",
+    "duration": "48:10"
+  },
+  {
     "episode_id": "2026-10-01-intelligence-explosion",
     "title": "What if automating AI R&D triggers an intelligence explosion? — Overview and Discussion",
     "pub_date_rfc2822": "Thu, 01 Oct 2026 15:58:15 GMT",
