@@ -1,5 +1,35 @@
 [
   {
+    "episode_id": "2026-11-15-change-the-poem",
+    "title": "What happens when you change the poem?",
+    "pub_date_rfc2822": "Wed, 18 Nov 2026 03:30:35 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-11-15-change-the-poem.mp3",
+    "enclosure_bytes": 25769373,
+    "summary": "A classroom experiment with a poem opens a conversation about literary and composition studies, followed by a separate encounter with research tools and the predicaments behind them. Introductions-and-contents only: not whole-book reviews. Independently authored and source-reviewed; synthetic voices. Technical and speech-recognition checks found no substantive omissions; uncommon-name pronunciation remains uncertain.",
+    "citations": [
+      "Alexander, J., & Goldblatt, E. Introduction to Lit to Lit. https://upcolorado.com/media/acfupload/LitToLit_TOCandIntro.pdf",
+      "Bahl, E. K., duffy, c. i., & Teston, C. Introduction to Methodological Matters. https://upcolorado.com/media/acfupload/MethodologicalMatters_TOCandIntro.pdf"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-11-15-change-the-poem",
+    "duration": "26:50"
+  },
+  {
+    "episode_id": "2026-11-08-english-after-midnight",
+    "title": "English after midnight",
+    "pub_date_rfc2822": "Wed, 18 Nov 2026 03:30:35 GMT",
+    "enclosure_url": "https://nothingbutrhet.github.io/nb-audio-briefing-feed-a39f/episodes/2026-11-08-english-after-midnight.mp3",
+    "enclosure_bytes": 30722943,
+    "summary": "An adult-education administrator recalls English classes from two to four in the morning. Vale and Mara examine literacy sponsorship and the limits of educators’ oral histories, then turn separately to a paid AI-agent diary and what the transaction cannot establish. Complete article and essay read independently; source-reviewed original discussion, synthetic voices, technical and speech-recognition checks completed.",
+    "citations": [
+      "Villegas, K. (2025). English that Works: Unsettling Literacy Sponsors in Adult Literacy Education. https://doi.org/10.29333/ejecs/1895",
+      "Shevlin, H. Consider the Agent. https://institute.deepmind.com/essays/consider-the-agent/"
+    ],
+    "featured_notes": [],
+    "guid": "briefing-episode-2026-11-08-english-after-midnight",
+    "duration": "32:00"
+  },
+  {
     "episode_id": "2026-10-10-mintz-humanities",
     "title": "The Humanities Are Shrinking. Their Ideas Are Everywhere. — Full Reading and Discussion",
     "pub_date_rfc2822": "Sat, 10 Oct 2026 15:54:11 GMT",
